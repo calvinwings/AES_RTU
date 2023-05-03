@@ -1,5 +1,7 @@
-#1 Marshall Calvin StudentID : 221ADM071
-#2 Soundhar kesavan StudentID :221ADM085
+ Marshall Calvin StudentID : 221ADM071
+
+
+# Github link https://github.com/calvinwings/AES_RTU
 
 import tkinter as tk
 from Crypto.Cipher import AES
@@ -83,3 +85,4 @@ class AESApp:
 root = tk.Tk()
 my_app = AESApp(root)
 root.mainloop()
+
